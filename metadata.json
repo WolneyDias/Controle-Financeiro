@@ -1,0 +1,5 @@
+{
+  "name": "Finanças Domésticas AI",
+  "description": "Aplicativo completo de controle financeiro com dashboard, categorias e assistente de IA para análise de gastos. Utiliza armazenamento local.",
+  "requestFramePermissions": []
+}
